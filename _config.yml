@@ -18,6 +18,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Victor. I'm a learner. I like to play with new technologies. 
   I'll be using this blog as a journal and documenting all my findings and lessons learned.
+baseurl: ""
+url: "https://vvilelaj.netlify.app"
 twitter_username: vvilelaj
 github_username: vvilelaj
 minimal_mistakes_skin: default
